@@ -31,4 +31,8 @@ Keskeneräisyys ei ole ongelma, jos se merkitään oikein. Repo saa sisältää 
 
 ## Lisenssit
 
-Projektin omalle tekstille voidaan myöhemmin valita erillinen avoin lisenssi. Se ei automaattisesti ulotu kolmansien osapuolten lähdeteksteihin tai dataan, joilla voi olla omat lisenssi- ja attribuutioehdot.
+Projektin omalle tekstille valittava avoin lisenssi on **toistaiseksi ratkaisematta**. Lisenssiä ei lisätä oletuksena eikä automaattisesti ennen käyttäjän nimenomaista päätöstä.
+
+Harkinnassa on erityisesti CC BY 4.0, mutta tätä ei pidetä tehtynä päätöksenä.
+
+Tuleva projektin oma lisenssi ei automaattisesti ulotu kolmansien osapuolten lähdeteksteihin tai dataan, joilla voi olla omat lisenssi- ja attribuutioehdot.
