@@ -53,6 +53,7 @@ Ei ole vielä osoitettu, että Paavalin kärsimykset tai sisäiset ahdistukset o
 - `PAAVALI_IDEAT.md` — lupaavat jatkoideat ja menetelmälliset avaukset
 - `TUTKIJAPANEELI.md` — tutkijapaneelin rakenne ja jäsenet
 - `PAAVALI_AI_KOKEET.md` — AI-avusteisen eksegetiikan koeasetelmat
+- `PUBLIC_REPO_POLICY.md` — julkisen repon julkaisu- ja lisenssikäytäntö
 
 ## Työskentelyrytmi
 
@@ -63,3 +64,11 @@ Takaisin tuodaan ensisijaisesti **uudet tutkimushavainnot**, ei jokaisen sivuhaa
 ## Repo työmuistina
 
 PAAVALI-projektissa GitHub-repo on ensisijainen pysyvä työmuisti. Merkittävät tekstihavainnot, hypoteesien muutokset, vasta-aineisto, menetelmälliset päätökset ja säilyttämisen arvoiset ideat päivitetään repo-tiedostoihin työn yhteydessä ilman erillistä pyyntöä. Ohimeneviä keskusteluajatuksia ei kirjata vain kirjaamisen vuoksi.
+
+## Lisenssi
+
+Projektin oma alkuperäinen tutkimusteksti ja muu alkuperäinen ei-ohjelmistollinen sisältö on lisensoitu **Creative Commons Attribution 4.0 International (CC BY 4.0)** -lisenssillä, ellei toisin ilmoiteta.
+
+Lisenssi sallii aineiston jakamisen, muokkaamisen ja käytön myös kaupallisiin tarkoituksiin lisenssin ehtojen mukaisesti. Kolmansien osapuolten lähdetekstit, raamatunlaitokset, data, lainaukset ja muu ulkopuolinen aineisto säilyttävät omat oikeutensa ja lisenssiehtonsa.
+
+Katso `LICENSE` ja `PUBLIC_REPO_POLICY.md`.
