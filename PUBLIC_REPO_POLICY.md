@@ -31,8 +31,12 @@ Keskeneräisyys ei ole ongelma, jos se merkitään oikein. Repo saa sisältää 
 
 ## Lisenssit
 
-Projektin omalle tekstille valittava avoin lisenssi on **toistaiseksi ratkaisematta**. Lisenssiä ei lisätä oletuksena eikä automaattisesti ennen käyttäjän nimenomaista päätöstä.
+Projektin oma alkuperäinen tutkimusteksti ja muu alkuperäinen ei-ohjelmistollinen sisältö julkaistaan **Creative Commons Attribution 4.0 International (CC BY 4.0)** -lisenssillä, ellei yksittäisen aineiston yhteydessä toisin ilmoiteta.
 
-Harkinnassa on erityisesti CC BY 4.0, mutta tätä ei pidetä tehtynä päätöksenä.
+CC BY 4.0 sallii jakamisen ja muokkaamisen myös kaupallisiin tarkoituksiin, kun lisenssin nimeämis- ja muut ehdot täyttyvät.
 
-Tuleva projektin oma lisenssi ei automaattisesti ulotu kolmansien osapuolten lähdeteksteihin tai dataan, joilla voi olla omat lisenssi- ja attribuutioehdot.
+Lisenssi ei automaattisesti ulotu kolmansien osapuolten lähdeteksteihin, raamatunlaitoksiin, dataan, lainauksiin, kuviin tai muuhun aineistoon, joilla voi olla omat lisenssi-, tekijänoikeus- ja attribuutioehtonsa.
+
+Mahdollinen ohjelmakoodi lisensoidaan tarvittaessa erikseen eikä sitä pidetä automaattisesti CC BY 4.0 -lisensoituna.
+
+Katso repon `LICENSE`-tiedosto.
