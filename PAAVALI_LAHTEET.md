@@ -81,6 +81,52 @@ Siksi LXX-moduulia kannattaa käyttää tutkimustyökaluna, mutta sitä ei pidä
 
 ---
 
+## Aineistolliset rajat suhteessa ammattitutkimukseen
+
+PAAVALI-projektin avoin tekstikorpus riittää vakavasti otettavaan eksegeettiseen perustyöhön, mutta aineistollinen pääsy ei ole automaattisesti sama kuin yliopisto- tai editiohankkeissa työskentelevällä tutkijalla.
+
+Mahdollisia eroja ovat:
+
+### Käsikirjoituskuvat ja tekstikriittinen pääsy
+- NTVMR:n ja CSNTM:n kautta on saatavilla paljon käsikirjoitusaineistoa, mutta kaikkien kuvien, metatietojen tai työkalujen käyttö ei välttämättä ole kaikille käyttäjille identtistä.
+- Rekisteröityminen, käyttöehdot, oikeudenhaltijoiden rajoitukset tai hankekohtainen asiantuntijapääsy voivat vaikuttaa siihen, mitä aineistoa yksittäinen tutkija käytännössä näkee.
+
+### ECM / IGNTP ja keskeneräinen toimitustyö
+- Julkaistuista ECM- ja IGNTP-aineistoista on paljon hyödynnettävissä myös projektin ulkopuolelta.
+- Editiohankkeiden tutkijoilla voi lisäksi olla käytössään keskeneräisiä kollaatioita, transkriptioita, tarkistuksia tai toimituksellista työaineistoa, jota ei vielä ole julkaistu yleiseen käyttöön.
+
+Tätä ei pidä kuvata `salaisena Paavali-aineistona`: ero koskee ennen kaikkea julkaisemisen vaihetta ja pääsyä toimitusprosessiin.
+
+### Laajat kielikorpukset
+- Maksullinen Thesaurus Linguae Graecae (TLG) tarjoaa laajan kreikankielisen vertailukorpuksen.
+- Avoimilla korpuksilla voidaan tehdä paljon samaa sanasto- ja käyttöhistoriallista työtä, mutta niiden kattavuus ei ole välttämättä sama.
+
+### Maksullinen tutkimuskirjallisuus
+Institutionaalinen pääsy voi tuoda tutkijan käyttöön:
+- maksullisia lehtiartikkeleita
+- kommentaareja ja monografioita
+- erikoissanakirjoja ja tietokantoja
+- laajoja historiallisia ja epigrafisia aineistoja
+
+Projektissa näitä voidaan käyttää tapauskohtaisesti silloin, kun pääsy on saatavilla, mutta niitä ei oleteta pysyväksi avoimeksi projektikorpukseksi.
+
+### Julkaisematon ja puolijulkinen aineisto
+Akatemian sisällä liikkuu myös:
+- konferenssipapereita ja esitelmäaineistoa
+- preprinttejä ja käsikirjoitusluonnoksia
+- hankkeiden keskeneräistä materiaalia
+- kollegiaalista tietoa, joka ei vielä ole muodollisesti julkaistu
+
+Tällaista aineistoa ei pidä käsitellä automaattisesti luotettavampana kuin julkaistua tutkimusta. Sen käyttö vaatii erillisen lähde- ja käyttöoikeusarvion.
+
+### Rajaus
+
+Aineistollinen epäsymmetria ei estä vakavaa Paavali-tutkimusta avoimilla lähteillä. Se tarkoittaa vain, että joissakin tekstikriittisissä, leksikaalisissa tai tutkimushistoriallisissa kysymyksissä ammattitutkijalla voi olla käytössään laajempi tai aikaisemmassa toimitusvaiheessa oleva aineisto.
+
+Saatavuus ja käyttöehdot muuttuvat. Siksi tässä kuvataan pysyvät aineistokategoriat, ei yksittäisten palvelujen tämänhetkistä käyttötilaa.
+
+---
+
 ## Mitä en vielä lisäisi projektin lähteisiin
 
 - kymmeniä englanninkielisiä käännöksiä
