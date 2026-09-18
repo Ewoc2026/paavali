@@ -139,3 +139,8 @@ Tilinvaihto on tutkimuksen kannalta onnistunut vasta, kun uusi ChatGPT-tili pyst
 - käyttämään oikeita lähdetiedostoja,
 - jatkamaan tutkimusta metodin mukaisesti,
 - palauttamaan uuden kestävän tutkimustiedon GitHubiin.
+
+## Migration verification
+
+- 2026-09-18: GitHub read/write access from the replacement ChatGPT account was verified during account migration.
+- This is operational migration metadata and does not alter the project's research state.
