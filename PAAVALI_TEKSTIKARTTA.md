@@ -189,3 +189,47 @@ Lain katse siirtyy toisen arvioimisesta oman ihmisen sisäisen tilan paljastamis
 
 Vastatesti:
 Paavali ei kiellä kaikkea moraalista arviointia. Mallin on selitettävä sekä tuomitsemiskielto että seurakunnan sisäinen kurinpidollinen arviointi.
+
+---
+
+## F. 2. Kor. 11:28 — `ἐπίστασις`
+
+Tutkimuskohde:
+vuoden 1938 suomennoksen ilmaus `jokapäiväistä tunkeilua luonani` suhteessa kreikan tekstiin.
+
+### Tekstihavainnot
+
+Nestle 1904 / SBLGNT:n lukema on `ἐπίστασις`.
+
+Jakeen olennaiset ilmaukset:
+- `ἐπίστασίς μοι`: jokin Paavaliin kohdistuva tai hänen osakseen tuleva `ἐπίστασις`; `μοι` ei itsessään ilmaise paikkaa `luonani`
+- `καθ’ ἡμέραν`: päivittäin / päivä päivältä
+- `ἡ μέριμνα πασῶν τῶν ἐκκλησιῶν`: kaikkia seurakuntia koskeva huoli tai huolenpito
+
+Kreikan teksti ei eksplisiittisesti mainitse:
+- kävijöitä tai ihmisjoukkoa
+- Paavalin taloa tai muuta paikkaa
+- ovea, saapumista tai fyysistä tunkeutumista
+
+### Semanttinen tulkinta
+
+`ἐπίστασις` on tässä vaikea sana. Sille on esitetty merkityskenttää, johon kuuluu esimerkiksi paikalle asettuminen tai päälle tuleminen sekä huomion, vastuun tai paineen kaltaisia sävyjä.
+
+Ap.t. 24:12:n ilmaus `ἐπίστασιν ποιοῦντα ὄχλου` osoittaa, että sana voi esiintyä väkijoukon kokoontumiseen tai häiriöön liittyvässä yhteydessä. Tämä tekee konkreettisen paineen tai tungoksen tulkinnan mahdolliseksi, mutta ei osoita, että 2. Kor. 11:28 tarkoittaisi juuri fyysistä ihmisjoukon tunkeilua.
+
+Vuoden 1938 `tunkeilua luonani` on siksi ymmärrettävä konkretisoivaksi tulkintakäännökseksi, ei kreikan rakenteen suoraksi vastineeksi.
+
+### Tekstikriittinen huomio
+
+Toisissa käsikirjoituksissa esiintyy variantti `ἐπισύστασις`, jonka merkityskenttä on konkreettisemmin kokoontumisen, päälle käymisen tai levottoman joukkokokoontumisen suuntainen.
+
+Variantti auttaa selittämään, miksi konkreettinen `tunkeilu`-tulkinta on syntynyt, mutta:
+- variantin semanttinen sopivuus ei todista sitä alkuperäiseksi lukutavaksi
+- variantin olemassaolo ei tee vuoden 1938 tapahtumakuvasta historiallisesti varmaa
+
+### Rajattu johtopäätös
+
+Vahvimmin voidaan sanoa, että Paavali kuvaa päivittäistä häneen kohdistuvaa tai hänen osakseen tulevaa rasitetta, jonka rinnalle hän asettaa huolen kaikista seurakunnista.
+
+Teksti ei yksin ratkaise tämän rasitteen tarkkaa mekanismia. Erityisesti siitä ei voida varmasti päätellä kirjaimellista päivittäistä ihmisjoukon tunkeutumista Paavalin luo.
+
